@@ -28,25 +28,25 @@ Consultants are encouraged to read carefully read the [*Guide for Researchers an
 
 3. **Publicly Available Information**: Answer the questionnaire on the basis of publicly available information, defined as information that is:
 
-⋅⋅1. Published by the institution or agency responsible for producing it within a given timeframe; and
+     1. Published by the institution or agency responsible for producing it within a given timeframe; and
 
-⋅⋅2.	Available at no cost to any person who wants the document, including in cases where a direct request must be made to the relevant institution or agency.
+     2.	Available at no cost to any person who wants the document, including in cases where a direct request must be made to the relevant institution or agency.
 
 4. **Interviews**:  Interview do not constitute publicly available information, and should only be used in cases where the information necessary to answer a question is not available via other channels (as described more fully in the [*Guide for Researchers and Peer Reviewers*]()).
 
 5. **Time Period Under Study**:  For de facto questions, answer the questionnaire with reference to events taking place from January 2015 onwards or during the most recently concluded fiscal year (as specified for each question).
 
-⋅⋅1.	If no events took place during the time period specified in the question, answer the question based on the most recent event taking place (i.e. the most recent event taking place prior to January 2015, or during the previous full fiscal year).
+     1.	If no events took place during the time period specified in the question, answer the question based on the most recent event taking place (i.e. the most recent event taking place prior to January 2015, or during the previous full fiscal year).
 
 6. **What Constitutes a “Complete” Response**: For a response to be considered “complete”, consultants must provide the following information when responding to each question:
 
-⋅⋅1. An answer selection.
+    1. An answer selection.
 
-⋅⋅2. A text justification explaining the answer selection.
+    2. A text justification explaining the answer selection.
 
-⋅⋅3. Full reference information for all sources that informed the answer selection.
+    3. Full reference information for all sources that informed the answer selection.
 
-⋅⋅4. PDF copies of all sources that informed the answer selection.  
+    4. PDF copies of all sources that informed the answer selection.  
 
 7. **“Proving the Negative”**:  Answering certain RGI questions requires consultants researchers to demonstrate the absence of a key component of the legal framework for resource governance (for *de jure* questions), or the absence of an event taking place (for *de facto* questions).  To prove the negative in the case of *de jure* questions, consultants should provide at least two sources indicating (either directly or indirectly) that the relevant component of the legal framework for resource governance is not in place.
 
