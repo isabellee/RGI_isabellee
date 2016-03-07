@@ -17,7 +17,7 @@ The RGI 2016 questionnaire is comprised of 168 questions. These are grouped into
 *	**Precept 8**: *Revenue volatility (natural resource funds)*
 </order>
 
-Consultants are encouraged to read carefully read the [*Guide for Researchers and Peer Reviewers Consultants*]() and consider should keep in mind the following points while completing the questionnaire:
+Consultants are encouraged to read carefully read the *Guide for Researchers and Peer Reviewers Consultants* and consider should keep in mind the following points while completing the questionnaire:
 
 <list>
 <order>
@@ -32,7 +32,7 @@ Consultants are encouraged to read carefully read the [*Guide for Researchers an
 
      2.	Available at no cost to any person who wants the document, including in cases where a direct request must be made to the relevant institution or agency.
 
-4. **Interviews**:  Interview do not constitute publicly available information, and should only be used in cases where the information necessary to answer a question is not available via other channels (as described more fully in the [*Guide for Researchers and Peer Reviewers*]()).
+4. **Interviews**:  Interview do not constitute publicly available information, and should only be used in cases where the information necessary to answer a question is not available via other channels (as described more fully in the *Guide for Researchers and Peer Reviewers*).
 
 5. **Time Period Under Study**:  For de facto questions, answer the questionnaire with reference to events taking place from January 2015 onwards or during the most recently concluded fiscal year (as specified for each question).
 
